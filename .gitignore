@@ -1,0 +1,12 @@
+.DS_Store
+
+*.stl
+*.FCStd1
+
+gerbers/
+*.bak
+PondMonitor-backups/
+fp-info-cache
+fp-lib-table
+sym-lib-table
+*auto_saved_files*
